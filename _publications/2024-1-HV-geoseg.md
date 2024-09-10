@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publication/2023_HV_geoseg
 excerpt: 'with Frank Verboven'
-date: 2024-08-01
+date: 2024-08-02
 venue: '<b>Submitted</b>'
 slidesurl: 'http://JH9425.github.io/files/2024_HV_geoseg_slides.pdf'
 paperurl: 'http://JH9425.github.io/files/2024_HV_geoseg_paper.pdf'
