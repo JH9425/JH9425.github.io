@@ -5,7 +5,7 @@ category: working_papers
 permalink: /publication/2024_CH_bottled
 excerpt: 'with Meredith Crowley'
 date: 2024-08-01
-venue: '<b>Submitted</b>'
+venue: 'Unpublished'
 slidesurl: 'http://JH9425.github.io/files/2024_CH_brexit_paper.pdf'
 paperurl: 'http://JH9425.github.io/files/2024_CH_brexit_slides.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
