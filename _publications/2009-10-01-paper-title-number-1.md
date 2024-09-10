@@ -12,3 +12,5 @@ citation: 'Colicev, A., Hoste, J., Konings, J. (2024). &quot;The Impact of A Lar
 ---
 
 Using retailer scanner data, we investigate how a sharp and abrupt depreciation of the exchange rate affects consumers' cost of living. We find that the marginal cost of imported goods increased, whereas their retail markups decreased compared to domestic products. There was also a surge in the entry and exit of both foreign and local product varieties post-depreciation. Wealthier consumers, who spend more on imports, are hit harder by higher marginal costs but benefit from reduced markups and increased product diversity, unlike their less affluent counterparts.
+
+Featured in [The Conversation](https://theconversation.com/how-a-currency-devaluation-in-kazakhstan-made-the-countrys-poor-worse-off-234333)
