@@ -6,7 +6,7 @@ permalink: /publication/2024-05-01-impact-large-depreciation
 excerpt: ''
 date: 2024-05-01
 venue: '<b>International Economic Review</b> (<i>Forthcoming</i>)'
-slidesurl: 'http://JH9425.github.io/files/CHK2024_slides.pdf'
+slidesurl: 'http://JH9425.github.io/files/2023_HV_geoseg_slides.pdf'
 paperurl: 'http://JH9425.github.io/files/CHK2024_paper.pdf'
 citation: 'Colicev, A., Hoste, J., Konings, J. (2024). &quot;The Impact of A Large Depreciation on the Cost of Living of Rich and Poor Consumers.&quot; <i>International Economic Review</i>. Forthcoming.'
 ---
