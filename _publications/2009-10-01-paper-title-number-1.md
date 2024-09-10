@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-05-01-impact-large-depreciation
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: #2010-10-01
+date: 2024-05-01
 venue: '<b>International Economic Review<\b>, <i>Forthcoming <\i>'
 slidesurl: 'http://JH9425.github.io/files/CHK2024_slides.pdf'
 paperurl: 'http://JH9425.github.io/files/CHK2024_paper.pdf'
