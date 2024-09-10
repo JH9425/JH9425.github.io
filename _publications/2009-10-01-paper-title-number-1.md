@@ -15,4 +15,4 @@ Using retailer scanner data, we investigate how a sharp and abrupt depreciation 
 
 Featured in [The Conversation](https://theconversation.com/how-a-currency-devaluation-in-kazakhstan-made-the-countrys-poor-worse-off-234333)
 
-[Replication materials](https://www.openicpsr.org/openicpsr/project/202962/version/V1/view)
+[Publisher version](https://onlinelibrary.wiley.com/doi/10.1111/iere.12720), [Replication materials](https://www.openicpsr.org/openicpsr/project/202962/version/V1/view)
