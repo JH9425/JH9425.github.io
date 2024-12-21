@@ -6,8 +6,8 @@ permalink: /publication/2024_H_bottledwater
 excerpt: ''
 date: 2024-04-01
 venue: 'Unpublished'
-slidesurl: 'http://JH9425.github.io/files/2024_H_bottled_slides.pdf'
-paperurl: 'http://JH9425.github.io/files/2024_H_bottled_paper.pdf'
+#slidesurl: 'http://JH9425.github.io/files/2024_H_bottled_slides.pdf'
+#paperurl: 'http://JH9425.github.io/files/2024_H_bottled_paper.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
