@@ -80,6 +80,12 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
 
+# Teaching Category - The following the list of publication categories and their headings
+teaching_category:
+  teaching_supervising:
+    title: 'TA/Supervision'
+  teaching_lecturering:
+    title: 'Lecturing'   
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
