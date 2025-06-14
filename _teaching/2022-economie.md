@@ -1,6 +1,7 @@
 ---
 title: "Economie (D0N62A)"
-collection: teaching_supervising
+collection: teaching
+category: supervising
 type: "Master course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "KU Leuven"
