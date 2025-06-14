@@ -11,4 +11,4 @@ I am postdoctoral research associate at the [Economics Department](https://www.e
 
 My research interest are in International Economics, Industrial Organization, and Macroeconomics. My research focuses on the measurement, causes, and consequences of market fragmentation in product markets. 
 
-My research has been supported by the Research Foundation Flanders FWO, the Centre for Inclusive Trade Policy (ESRC) and the Keynes Fund. 
+My research has been supported by the Research Foundation Flanders (FWO), the Centre for Inclusive Trade Policy (ESRC) and the Keynes Fund. 
