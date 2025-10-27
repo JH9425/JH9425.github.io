@@ -5,7 +5,7 @@ category: working_papers
 permalink: /publication/2023_HV_geoseg
 excerpt: 'with Frank Verboven'
 date: 2025-03-17
-venue: '<b>Under review</b>'
+venue: '<b>Revise & Resubmit @ <i>Journal of European Economic Association </i> </b>'
 slidesurl: 'http://JH9425.github.io/files/2024_HV_geoseg_slides.pdf'
 paperurl: 'http://JH9425.github.io/files/2024_HV_geoseg_paper.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
