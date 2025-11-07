@@ -7,7 +7,7 @@ excerpt: 'with Meredith Crowley'
 date: 2025-01-12
 venue: 'Working paper'
 slidesurl: 'http://JH9425.github.io/files/2024_CH_brexit_slides.pdf'
-paperurl: 'http://JH9425.github.io/files/2024_CH_brexit_paper.pdf'
+paperurl: 'https://www.dropbox.com/scl/fi/so6tr1p0bcdcj7qph2uv0/CH_brexit.pdf?rlkey=z0nn3rg3a0xb5h9sy5aedw8jd&st=m6q3t193&dl=0'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
