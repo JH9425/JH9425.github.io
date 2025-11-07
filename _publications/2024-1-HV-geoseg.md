@@ -6,7 +6,7 @@ permalink: /publication/2023_HV_geoseg
 excerpt: 'with Frank Verboven'
 date: 2025-10-7
 venue: '<b>Revise & Resubmit @ Journal of European Economic Association </b>'
-slidesurl: ''
+slidesurl: 'https://www.dropbox.com/scl/fi/p8hhe4jk9xklky3va8ilr/2024_HV_geoseg_slides.pdf?rlkey=u5pdlc0eerakhcoeo3lmvyxgz&st=i45tyzod&dl=0'
 paperurl: 'https://www.dropbox.com/scl/fi/unktq314slr526obzx2ds/HV_geo_seg.pdf?rlkey=lpd2vb7p8c62dmyhzar2doa1d&st=2i069a0r&dl=0'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
