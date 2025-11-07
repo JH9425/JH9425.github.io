@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publication/2024_CH_bottled
 excerpt: 'with Meredith Crowley'
-date: 2025-01-12
+date: 2025-11-1
 venue: 'Working paper'
 slidesurl: 'http://JH9425.github.io/files/2024_CH_brexit_slides.pdf'
 paperurl: 'https://www.dropbox.com/scl/fi/so6tr1p0bcdcj7qph2uv0/CH_brexit.pdf?rlkey=z0nn3rg3a0xb5h9sy5aedw8jd&st=m6q3t193&dl=0'
