@@ -6,7 +6,7 @@ permalink: /publication/2024_CH_bottled
 excerpt: 'with Meredith Crowley'
 date: 2025-11-1
 venue: 'Working paper'
-slidesurl: 'http://JH9425.github.io/files/2024_CH_brexit_slides.pdf'
+slidesurl: 'https://www.dropbox.com/scl/fi/rduyz9jjqwmrfgflnsr1j/2025_03_24_cambridge_nosep.pdf?rlkey=w9p9yqc31acpjpdw44iw0j8o3&st=ipjcfqc4&dl=0'
 paperurl: 'https://www.dropbox.com/scl/fi/so6tr1p0bcdcj7qph2uv0/CH_brexit.pdf?rlkey=z0nn3rg3a0xb5h9sy5aedw8jd&st=m6q3t193&dl=0'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
