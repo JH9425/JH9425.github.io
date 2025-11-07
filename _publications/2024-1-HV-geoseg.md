@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publication/2023_HV_geoseg
 excerpt: 'with Frank Verboven'
-date: 2025-03-17
+date: 2025-11-7
 venue: '<b>Revise & Resubmit @ Journal of European Economic Association </b>'
 slidesurl: ''
 paperurl: 'https://www.dropbox.com/scl/fi/unktq314slr526obzx2ds/HV_geo_seg.pdf?rlkey=lpd2vb7p8c62dmyhzar2doa1d&st=2i069a0r&dl=0'
