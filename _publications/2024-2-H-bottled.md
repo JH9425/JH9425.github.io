@@ -6,7 +6,7 @@ permalink: /publication/2024_H_bottledwater
 excerpt: ''
 date: 2025-02-01
 venue: 'Working paper'
-#slidesurl: 'http://JH9425.github.io/files/2024_H_bottled_slides.pdf'
+#slidesurl: 'https://www.dropbox.com/scl/fi/e7vs8nt0kbihz9kl1bghv/H_bottled_water.pdf?rlkey=5u403nuywfvjjf5ma1nlt9dea&st=2fh279a2&dl=0'
 paperurl: 'https://www.dropbox.com/scl/fi/e7vs8nt0kbihz9kl1bghv/H_bottled_water.pdf?rlkey=5u403nuywfvjjf5ma1nlt9dea&st=qgh8wdcu&dl=0'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
